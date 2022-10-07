@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Full Stack Legendary/1.0.0": {
+        "runtime": {
+          "Full Stack Legendary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Full Stack Legendary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.csproj.AssemblyReference.cache
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.AssemblyInfoInputs.cache
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.AssemblyInfo.cs
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.csproj.CoreCompileInputs.cache
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.exe
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.deps.json
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.runtimeconfig.json
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.runtimeconfig.dev.json
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.dll
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\ref\Full Stack Legendary.dll
+C:\Users\mobak\Desktop\Full Stack Legendary\bin\Debug\net5.0\Full Stack Legendary.pdb
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.dll
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\ref\Full Stack Legendary.dll
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.pdb
+C:\Users\mobak\Desktop\Full Stack Legendary\obj\Debug\net5.0\Full Stack Legendary.genruntimeconfig.cache
